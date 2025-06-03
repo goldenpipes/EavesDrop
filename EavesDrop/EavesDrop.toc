@@ -1,8 +1,8 @@
-## Interface: 11201
+## Interface: 11200
 ## Name: EavesDrop
 ## Title: EavesDrop |cff7fff7f -Ace2-|r
 ## Notes: A simple combat log that displays events similar to SCT
-## Notes-ruRU: Простой журнал боевых действий, в котором отображаются события, похожие на SCT
+## Notes-ruRU: ГЏГ°Г®Г±ГІГ®Г© Г¦ГіГ°Г­Г Г« ГЎГ®ГҐГўГ»Гµ Г¤ГҐГ©Г±ГІГўГЁГ©, Гў ГЄГ®ГІГ®Г°Г®Г¬ Г®ГІГ®ГЎГ°Г Г¦Г ГѕГІГ±Гї Г±Г®ГЎГ»ГІГЁГї, ГЇГ®ГµГ®Г¦ГЁГҐ Г­Г  SCT
 ## Version: 1.4.1
 ## Author: laytya
 ## SavedVariables: EavesDropDB
